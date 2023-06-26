@@ -1,16 +1,14 @@
-### Hi there 👋
+# Achievements
 
-<!--
-**magnetrwn/magnetrwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Trophies
+![](https://github-profile-trophy.vercel.app/?username=magnetrwn&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-Here are some ideas to get you started:
+### Specs
+![](https://github-readme-stats.vercel.app/api?username=magnetrwn&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=magnetrwn&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Clicks
+[![](https://visitcount.itsvg.in/api?id=magnetrwn&icon=3&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
