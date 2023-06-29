@@ -1,13 +1,13 @@
 
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hey there! ⚡</h1>
 
 <p align="center">
-    <b>Welcome to my GitHub page!</b><br><br>
+    <b>Welcome to my GitHub page!</b><br/><br/>
     <i align="center">
-      I'm an enthusiastic developer (occasionally hacker) currently in high school.<br>
-      I have a strong passion for learning and exploring new technologies.<br>
-      It would be greatly appreciated if you find any of my content interesting or valuable.<br>
-    </i><br>
+      I'm an enthusiastic developer (occasionally hacker) currently in high school.<br/>
+      I have a strong passion for learning and exploring new technologies.<br/>
+      It would be greatly appreciated if you find any of my content interesting or valuable.<br/>
+    </i><br/>
     <a href="mailto:busy.rp@tuta.io">
         <img src="https://img.shields.io/badge/Email-0A50D6?style=plastic&logo=gmail&logoColor=white" alt="email">
     </a>
@@ -23,6 +23,8 @@
 </p>
 
 <details>
+
+#
 
 ### Stats
 
