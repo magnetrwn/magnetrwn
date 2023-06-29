@@ -9,7 +9,7 @@
       It would be greatly appreciated if you find any of my content interesting or valuable.<br/>
     </i><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=react&hide_border=true" alt="GitHub Streak Stats"><br/><br/>
-    <a href="mailto:busy.rp@tuta.io">
+    <a href="mailto:magnetrwn@tuta.io">
         <img src="https://img.shields.io/badge/Email-0A50D6?style=plastic&logo=gmail&logoColor=white" alt="email">
     </a>
     <a href="#">
