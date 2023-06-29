@@ -42,4 +42,4 @@
 
 </details>
 
-<p align="center" ><sub>Original README concept from @wervlad!</sub></p>
+<p align="center" ><sub>Original README concept from <b>@wervlad</b>!</sub></p>
