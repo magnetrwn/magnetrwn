@@ -4,9 +4,9 @@
 <p align="center">
     <b>Welcome to my GitHub page!</b><br/><br/>
     <i align="center">
-      I'm an enthusiastic developer fresh out of high school, but with extensive knowledge.<br/>
-      I have a strong passion for learning, exploring, trying and hacking new technologies.<br/>
-      It would be greatly appreciated if you find any of my content interesting or valuable.<br/>
+      I'm a motivated developer just out of high school, armed with a wealth of knowledge.<br/>
+      I enjoy learning, exploring, experimenting, and understanding all sorts of technology.<br/>
+      It would be greatly appreciated if you found any of my content valuable or inspiring.<br/>
     </i><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=react&hide_border=true" alt="GitHub Streak Stats"><br/><br/>
     <a href="mailto:magnetrwn@tuta.io">
