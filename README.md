@@ -4,7 +4,7 @@
 <p align="center">
     <b>Welcome to my GitHub page!</b><br/><br/>
     <i align="center">
-      I'm a motivated developer just out of high school, armed with a wealth of knowledge.<br/>
+      I'm a motivated developer just out of high school, looking for developer friends!<br/>
       I enjoy learning, exploring, experimenting, and understanding all sorts of technology.<br/>
       It would be greatly appreciated if you found any of my content valuable or inspiring.<br/>
     </i><br/>
