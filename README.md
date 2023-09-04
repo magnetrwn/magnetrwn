@@ -4,22 +4,22 @@
 <div align="center">
     <b>Welcome to my GitHub page!</b><br/><br/>
     <br/>
-    <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
-    <div align="left">
+    <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+    <div align="center">
         
 ```cpp
-while (not_zoning_out) {
-    always = Ready::to[code]();
-    code = always;
-    std::cout << always;
-    std::cout.flush();
-    usleep(I_DONT);
-    not_zoning_out--;
-}
+while (not_zoning_out) {                  // Thank you for stopping by
+     always = Ready::to[code]();           // my GitHub page! If you are
+    code = always;                        // interested in any project
+    std::cout << always;                  // of mine, want to add some
+       std::cout.flush();                    // feedback/open an issue, make
+     usleep(I_DONT);                       // a fork/branch/PR or ask me
+   not_zoning_out--;                     // anything from collabs to
+}                                         // opinions, I am here!    .
 ```
 Not cheeky enough? Get the [full C++ source](https://github.com/magnetrwn/magnetrwn/blob/1692708c955bf2698483165a6869be62d48a096b/cheeky.cpp)!
 </div>
-    </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+    </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=react&hide_border=true" alt="GitHub Streak Stats"><br/><br/>
     <a href="mailto:magnetrwn@tuta.io">
         <img src="https://img.shields.io/badge/Email-0A50D6?style=plastic&logo=gmail&logoColor=white" alt="email">
