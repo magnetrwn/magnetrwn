@@ -17,7 +17,7 @@ while (not_zoning_out) {
     not_zoning_out--;
 }
 ```
-Not cheeky enough? Get the [full C++ source](https://github.com/magnetrwn/magnetrwn/cheeky.cpp)!
+Not cheeky enough? Get the [full C++ source](https://github.com/magnetrwn/magnetrwn/blob/1692708c955bf2698483165a6869be62d48a096b/cheeky.cpp)!
 </div>
     </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=react&hide_border=true" alt="GitHub Streak Stats"><br/><br/>
