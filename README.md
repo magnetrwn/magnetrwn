@@ -6,31 +6,21 @@
     <br/>
     <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
     <div align="center">
-        
-```cpp
-while (not_zoning_out) {                  // Thank you for stopping by
-     always = Ready::to[code]();           // my GitHub page! If you are
-    code = always;                        // interested in any project
-    std::cout << always;                  // of mine, want to add some
-       std::cout.flush();                    // feedback/open an issue, make
-     usleep(I_DONT);                       // a fork/branch/PR or ask me
-   not_zoning_out--;                     // anything from collabs to
-}                                         // opinions, I am here!    .
-```
-Not cheeky enough? Get the [full C++ source](https://github.com/magnetrwn/magnetrwn/blob/1692708c955bf2698483165a6869be62d48a096b/cheeky.cpp)!
-</div>
+        <img src="https://github.com/magnetrwn/magnetrwn/blob/e29bf8b6f564a18c0ce0f92c4f2462b5c04bcd45/github-top.webp">
+        Not cheeky enough? Get the [full C++ source](https://github.com/magnetrwn/magnetrwn/blob/1692708c955bf2698483165a6869be62d48a096b/cheeky.cpp)!
+    </div>
     </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=react&hide_border=true" alt="GitHub Streak Stats"><br/><br/>
     <a href="mailto:magnetrwn@tuta.io">
         <img src="https://img.shields.io/badge/Email-0A50D6?style=plastic&logo=gmail&logoColor=white" alt="email">
     </a>
-    <a href="#">
+    <a href="#" disabled="">
         <img src="https://img.shields.io/badge/LinkedIn-083387?style=plastic&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://discord.gg/DzxqZWFFCE">
         <img src="https://img.shields.io/badge/Discord-0D2552?style=plastic&logo=discord" alt="Discord">
     </a>
-    <a href="#">
+    <a href="#" disabled="">
         <img src="https://img.shields.io/badge/LeetCode-000A1C?style=plastic&logo=LeetCode" alt="LeetCode">
     </a>
 </div>
