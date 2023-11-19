@@ -20,7 +20,7 @@ Not cheeky enough? Get the [C++ source](https://github.com/magnetrwn/magnetrwn/b
     <a href="https://discord.gg/DzxqZWFFCE">
         <img src="https://img.shields.io/badge/Discord-0D2552?style=plastic&logo=discord" alt="Discord">
     </a>
-    <a href="#" disabled="">
+    <a href="https://leetcode.com/magnetrwn/">
         <img src="https://img.shields.io/badge/LeetCode-000A1C?style=plastic&logo=LeetCode" alt="LeetCode">
     </a>
 </div>
