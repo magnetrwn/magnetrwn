@@ -11,7 +11,6 @@ Not cheeky enough? Get the [C++ source](https://github.com/magnetrwn/magnetrwn/b
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=nord&hide_border=true" alt="GitHub Streak Stats"><br/><br/>
-    <img src="https://leetcard.jacoblin.cool/magnetrwn?theme=nord&font=Nova%20Cut&ext=activity"><br/><br/>
     <a href="mailto:magnetrwn@tuta.io">
         <img src="https://img.shields.io/badge/Email-0A50D6?style=plastic&logo=gmail&logoColor=white" alt="email">
     </a>
@@ -38,6 +37,8 @@ Not cheeky enough? Get the [C++ source](https://github.com/magnetrwn/magnetrwn/b
 
 ![](https://github-readme-stats.vercel.app/api?username=magnetrwn&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magnetrwn&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"><img src="https://leetcard.jacoblin.cool/magnetrwn?theme=nord&font=Nova%20Cut&ext=activity"><br/><br/></div>
+
 
 #
 
