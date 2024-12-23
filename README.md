@@ -3,11 +3,11 @@
 
 <div align="center">Welcome to my GitHub page!<br/><br/></div>
 
-<img align="center" src="https://github.com/magnetrwn/magnetrwn/blob/e29bf8b6f564a18c0ce0f92c4f2462b5c04bcd45/github-top.webp">
+<!--img align="center" src="https://github.com/magnetrwn/magnetrwn/blob/e29bf8b6f564a18c0ce0f92c4f2462b5c04bcd45/github-top.webp"-->
 
-Not cheeky enough? Get the [C++ source](https://github.com/magnetrwn/magnetrwn/blob/1692708c955bf2698483165a6869be62d48a096b/cheeky.cpp)!
+<!--p>Not cheeky enough? Get the [C++ source](https://github.com/magnetrwn/magnetrwn/blob/1692708c955bf2698483165a6869be62d48a096b/cheeky.cpp)!  #</p-->
 
-#
+
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=magnetrwn&theme=nord&hide_border=true" alt="GitHub Streak Stats"><br/><br/>
