@@ -14,9 +14,6 @@
     <a href="mailto:magnetrwn@tuta.io">
         <img src="https://img.shields.io/badge/Email-0A50D6?style=plastic&logo=gmail&logoColor=white" alt="email">
     </a>
-    <a href="https://www.linkedin.com/in/riccardo-polli/" disabled="">
-        <img src="https://img.shields.io/badge/LinkedIn-083387?style=plastic&logo=linkedin" alt="LinkedIn">
-    </a>
     <a href="https://discord.gg/DzxqZWFFCE">
         <img src="https://img.shields.io/badge/Discord-0D2552?style=plastic&logo=discord" alt="Discord">
     </a>
